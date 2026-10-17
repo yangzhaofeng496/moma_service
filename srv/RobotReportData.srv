@@ -1,0 +1,14 @@
+string raw_file_path
+int32 id
+string point_id
+string analyse_result
+string point_name
+string point_type
+string message
+string timestamp
+int32 robot_id
+int32 object_count
+DetectObj[] object_list
+---
+string code
+string message

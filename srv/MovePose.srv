@@ -1,0 +1,9 @@
+float32 ee_x
+float32 ee_y
+float32 ee_z
+float32 ee_qx
+float32 ee_qy
+float32 ee_qz
+float32 ee_qw
+---
+moveit_msgs/MoveItErrorCodes moveit_code

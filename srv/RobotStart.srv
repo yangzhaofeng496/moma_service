@@ -1,0 +1,12 @@
+int32 id
+string train_type_name
+string train_number
+string verb_type
+string verb_type_str
+string repair_class_name
+string timestamp
+int32 robot_id
+string work_mode
+---
+string code
+string message

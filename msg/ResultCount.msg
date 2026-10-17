@@ -1,0 +1,3 @@
+int32 total_count
+int32 inspected_count
+int32 abnormal_count

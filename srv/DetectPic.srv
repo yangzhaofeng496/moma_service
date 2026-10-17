@@ -1,0 +1,8 @@
+# DetectPic.srv
+string save_path_prefix
+string detect_type  # 检测类型（如"YOLO"）
+---
+string analyse_result  # "ok"正常，"error"异常
+string message        # 检测信息/异常描述
+int32 object_count     # 检测到的目标数量
+DetectObj[] object_list  # 目标列表（嵌套结构）

@@ -1,0 +1,8 @@
+int32 task_id
+ResultCount total_summary
+ResultCount count_verify
+ResultCount installation_position
+ResultCount physical_measurement
+---
+string code
+string message
